@@ -1,6 +1,6 @@
 # Classification-of-New-Car-Marketing-Feasibility 🚗
 
-This classification model has an accuracy of about 0.967, which indicates that the model is able to make valid predictions at a high level. This classification is conducted to fulfill the assignment of the machine learning course.
+This classification model has an accuracy of about 96.7%, which indicates that the model is able to make valid predictions at a high level. This classification is conducted to fulfill the assignment of the machine learning course.
 
 ## Introduction
 Transportation is one of the most important aspects of modern life. Cars are one of the most common transportation used by many people. Car manufacturers are competing to produce and promote new products to meet the growing demand for new vehicles. One automotive business intends to launch a new car model into the market. However, this choice to launch a new car should not be taken lightly. Before introducing a new car to the market, the company wants to make sure that the car will be well received by consumers and can compete effectively with cars from competitors. with cars from competitors.
